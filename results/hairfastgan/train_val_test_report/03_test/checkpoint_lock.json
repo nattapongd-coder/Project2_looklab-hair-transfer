@@ -1,0 +1,31 @@
+{
+  "Baseline": {
+    "blending_sha256": "cece9608f2fe8269796a9903fb9550f2cb0e8022cedaefcbf9972305f206fed1",
+    "postprocess_sha256": "91ae95d3bf274a61d4d120daa955346033ce089c334221d5b444ff2ce92a6a84",
+    "epoch": 0
+  },
+  "A": {
+    "epoch": 27,
+    "sha256": "6bfabac1594c67ab14537599dd6a5d4e07bf942b4647953c5877eca9022197b1",
+    "original": "/content/drive/MyDrive/HairFastGAN_BPP_4Trials_PretrainedStart/9be83b9c2e/trial_A/best.pt",
+    "snapshot": "/content/locked_ABCD_896834af/A.pt"
+  },
+  "B": {
+    "epoch": 24,
+    "sha256": "6195edd247917e7c34887945413e08b731faae736f5239dd2b28d9636e65f98b",
+    "original": "/content/drive/MyDrive/HairFastGAN_BPP_4Trials_PretrainedStart/9be83b9c2e/trial_B/best.pt",
+    "snapshot": "/content/locked_ABCD_896834af/B.pt"
+  },
+  "C": {
+    "epoch": 26,
+    "sha256": "66412459642b5201f415f8361a9b49a611a4b96a8ea9683dc9c99c674b8f8316",
+    "original": "/content/drive/MyDrive/HairFastGAN_BPP_4Trials_PretrainedStart/9be83b9c2e/trial_C/best.pt",
+    "snapshot": "/content/locked_ABCD_896834af/C.pt"
+  },
+  "D": {
+    "epoch": 23,
+    "sha256": "385d36d4c32d0e33b06eb706b1ae2368f26af0913da1450fd00515e9dfd14f99",
+    "original": "/content/drive/MyDrive/HairFastGAN_BPP_4Trials_PretrainedStart/9be83b9c2e/trial_D/best.pt",
+    "snapshot": "/content/locked_ABCD_896834af/D.pt"
+  }
+}

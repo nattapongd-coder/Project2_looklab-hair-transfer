@@ -1,0 +1,11 @@
+stage,seconds
+front_end_train,23044.584530778942
+inversion_train,13506.62602062
+front_end_validation,1383.0392308750015
+inversion_validation,3191.408031949999
+front_end_test_candidate,1535.7656831199565
+inversion_test_candidate,3347.4525785059814
+shared_weight_updates_A,1331.9473443292009
+shared_weight_updates_B,1311.2685290319641
+shared_weight_updates_C,1314.2360094894393
+shared_weight_updates_D,1313.899044311729

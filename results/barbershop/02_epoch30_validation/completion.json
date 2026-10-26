@@ -1,0 +1,18 @@
+{
+  "status": "complete",
+  "split": "validation",
+  "cases": 9,
+  "metric_rows": 45,
+  "epochs": {
+    "Baseline": 0,
+    "A": 30,
+    "B": 30,
+    "C": 30,
+    "D": 30
+  },
+  "original_files_unchanged": true,
+  "in_memory_weights_restored": true,
+  "no_training": true,
+  "no_test_evaluation": true,
+  "no_reselection": true
+}

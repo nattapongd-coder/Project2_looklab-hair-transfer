@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+:root {
+  --page-bg: #F4EAE2;
+  --surface: #FFFFFF;
+  --surface-warm: #FFF1E9;
+  --surface-peach: #FFE3D5;
+  --primary: #F27D68;
+  --primary-hover: #E96A55;
+  --primary-active: #D85B48;
+  --primary-soft: #FFE9E1;
+  --text-primary: #432B25;
+  --text-secondary: #80665D;
+  --text-muted: #A18B82;
+  --border: #EFDCD3;
+  --focus-ring: #B84837;
+  --success: #47735C;
+  --error: #B64040;
+}
+
+@layer base {
+  body {
+    font-family: 'Noto Sans Thai', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #F4EAE2;
+    color: #432B25;
+  }
+}
+
+.font-brand {
+  font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+}
+
+.font-script {
+  font-family: 'Caveat', 'Alex Brush', cursive;
+}
+
+.font-watermark {
+  font-family: 'Bodoni Moda', 'Cormorant Garamond', 'Cinzel', 'Playfair Display', Georgia, serif;
+  letter-spacing: 0.28em;
+}
+
+input[type="range"] {
+  accent-color: #F27D68;
+}
+
+@keyframes indeterminate-bar {
+  0% {
+    transform: translateX(-100%);
+  }
+  50% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-indeterminate-bar {
+  animation: indeterminate-bar 1.8s infinite linear;
+  width: 200%;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.2s ease-out forwards;
+}
+
+/* Gentle, subtle 2-second glowing pulse animation */
+@keyframes pulse-glow-2s {
+  0%, 100% {
+    box-shadow: 0 2px 8px rgba(242, 125, 104, 0.2), 0 0 0 0 rgba(242, 125, 104, 0);
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 4px 14px rgba(242, 125, 104, 0.38), 0 0 8px 1px rgba(242, 125, 104, 0.2);
+    opacity: 0.93;
+    transform: scale(1.012);
+  }
+}
+
+.animate-pulse-glow-2s {
+  animation: pulse-glow-2s 2s infinite ease-in-out;
+}
+
+/* Custom peach-themed scrollbars */
+.custom-scrollbar-y {
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #F27D68 #FFF1E9;
+}
+
+.custom-scrollbar-y::-webkit-scrollbar {
+  width: 5px;
+}
+
+.custom-scrollbar-y::-webkit-scrollbar-track {
+  background: #FFF1E9;
+  border-radius: 9999px;
+}
+
+.custom-scrollbar-y::-webkit-scrollbar-thumb {
+  background: #F27D68;
+  border-radius: 9999px;
+}
+
+.custom-scrollbar-y::-webkit-scrollbar-thumb:hover {
+  background: #E96A55;
+}
+
+.custom-scrollbar-x {
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #F27D68 #FFF1E9;
+}
+
+.custom-scrollbar-x::-webkit-scrollbar {
+  height: 4px;
+}
+
+.custom-scrollbar-x::-webkit-scrollbar-track {
+  background: #FFF1E9;
+  border-radius: 9999px;
+}
+
+.custom-scrollbar-x::-webkit-scrollbar-thumb {
+  background: #F27D68;
+  border-radius: 9999px;
+}
+
+.custom-scrollbar-x::-webkit-scrollbar-thumb:hover {
+  background: #E96A55;
+}
+

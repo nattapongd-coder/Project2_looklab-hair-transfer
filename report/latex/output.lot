@@ -1,0 +1,30 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1}{\ignorespaces สรุปรายละเอียดงานวิจัยที่เกี่ยวข้องกับการถ่ายโอนทรงผมด้วยเทคนิคปัญญาประดิษฐ์}}{7}{table.caption.5}%
+\contentsline {table}{\numberline {2}{\ignorespaces พื้นที่แฝงของ StyleGAN2 ที่เกี่ยวข้องกับงานวิจัย}}{10}{table.caption.6}%
+\contentsline {table}{\numberline {3}{\ignorespaces การเปรียบเทียบคุณสมบัติของ HairFastGAN และ Barbershop}}{26}{table.caption.17}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4}{\ignorespaces การแบ่งชุดข้อมูล}}{38}{table.caption.24}%
+\contentsline {table}{\numberline {5}{\ignorespaces อัตราการเรียนรู้ของ 4 Trial}}{51}{table.caption.29}%
+\contentsline {table}{\numberline {6}{\ignorespaces ด่านที่ Checkpoint ต้องผ่าน (เทียบกับ Epoch 0)}}{52}{table.caption.30}%
+\contentsline {table}{\numberline {7}{\ignorespaces ตัวชี้วัด 5 ด้านที่ใช้ทั้งการเลือก Checkpoint และการทดสอบ}}{53}{table.caption.31}%
+\contentsline {table}{\numberline {8}{\ignorespaces เกณฑ์ประเมินขั้น Diffusion}}{56}{table.caption.33}%
+\contentsline {table}{\numberline {9}{\ignorespaces คำถามในแบบประเมินของผู้ใช้}}{57}{table.caption.34}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {10}{\ignorespaces ค่าสูญเสียแยกแต่ละส่วนของ HFG Trial B (ค่าเฉลี่ยชุดตรวจสอบ)}}{64}{table.caption.39}%
+\contentsline {table}{\numberline {11}{\ignorespaces ผลการเลือก Checkpoint ของ HairFastGAN (ชุดตรวจสอบ 9 ชุด)}}{65}{table.caption.40}%
+\contentsline {table}{\numberline {12}{\ignorespaces ผลการเลือก Checkpoint ของ Barbershop-FT ที่ Epoch 30 (ชุดตรวจสอบ 9 ชุด)}}{67}{table.caption.43}%
+\contentsline {table}{\numberline {13}{\ignorespaces ผลบนชุดทดสอบ 10 ชุด (ค่าเฉลี่ย) และผลต่างแบบจับคู่ของ Barbershop}}{69}{table.caption.46}%
+\contentsline {table}{\numberline {14}{\ignorespaces ผลของการขัดเกลาด้วย Diffusion ใน 8 ชุดภาพ}}{74}{table.caption.51}%
+\contentsline {table}{\numberline {15}{\ignorespaces คะแนนเฉลี่ยจากผู้ใช้ 41 คน (คะแนน 1--5)}}{77}{table.caption.55}%
+\contentsline {table}{\numberline {16}{\ignorespaces ผลต่างคะแนนแบบจับคู่รายคน (95\% CI จากบูตสแตรป)}}{78}{table.caption.57}%
+\contentsline {table}{\numberline {17}{\ignorespaces การตัดสินผลของ Diffusion จากตัวชี้วัดเชิงตัวเลขร่วมกับผู้ใช้}}{80}{table.caption.59}%
+\contentsline {table}{\numberline {18}{\ignorespaces ผลการทดลองใช้งานเว็บแอปพลิเคชัน 100 ครั้ง}}{81}{table.caption.60}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {19}{\ignorespaces ค่าที่ใช้ในการปรับจูนและการเลือก Checkpoint}}{94}{table.caption.63}%
+\contentsline {table}{\numberline {20}{\ignorespaces ค่าที่ใช้ในขั้นขัดเกลาด้วย Diffusion}}{95}{table.caption.64}%
+\contentsline {table}{\numberline {21}{\ignorespaces คำถามในแบบประเมินภาพแบบปกปิดชื่อโมเดล}}{97}{table.caption.65}%
+\contentsline {table}{\numberline {22}{\ignorespaces หัวข้อในแบบประเมินหลังใช้งานเว็บแอปพลิเคชัน LOOKLAB}}{98}{table.caption.66}%
+\contentsline {table}{\numberline {23}{\ignorespaces เปรียบเทียบโค้ดที่ Google AI Studio สร้างกับเว็บ LOOKLAB ที่ใช้จริง}}{130}{table.caption.96}%
+\contentsline {table}{\numberline {24}{\ignorespaces เปรียบเทียบหน้าเว็บสำหรับ Vercel ที่ Claude ทำให้กับที่ใช้จริง}}{133}{table.caption.99}%
+\contentsline {table}{\numberline {25}{\ignorespaces สรุปการใช้คำตอบจาก AI ในโครงงาน}}{134}{table.D.25}%

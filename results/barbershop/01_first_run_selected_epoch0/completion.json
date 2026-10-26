@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "protocol_id": "27f7f146ef0d",
+  "training_updates_per_trial": 4500,
+  "validation_selected": "Baseline",
+  "checkpoint_directory": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d",
+  "test_used_for_training": false,
+  "test_used_for_selection": false
+}

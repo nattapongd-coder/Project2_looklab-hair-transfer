@@ -1,0 +1,410 @@
+[
+  {
+    "id": "H01",
+    "category": "hair",
+    "name_th": "ผมยาวลอนคลายหน้าม้าม่าน",
+    "name_en": "Long Waves with Curtain Bangs",
+    "image": "hairstyles/H01_long_waves_with_curtain_bangs.png",
+    "original_filename": "0bb108ec-e58e-45f8-a031-1412e158242c.png"
+  },
+  {
+    "id": "H02",
+    "category": "hair",
+    "name_th": "บ๊อบสั้นลอนคลายแสกข้าง",
+    "name_en": "Side Part Wavy Bob",
+    "image": "hairstyles/H02_side_part_wavy_bob.png",
+    "original_filename": "2223334b-a403-4905-a5ce-3c1f4e3a9977.png"
+  },
+  {
+    "id": "H03",
+    "category": "hair",
+    "name_th": "ผมแสกกลางเกาหลีหน้าม้าปรกหน้าผาก",
+    "name_en": "Korean Curtain Hair",
+    "image": "hairstyles/H03_korean_curtain_hair.png",
+    "original_filename": "31dd1749-5991-4b0a-b9cf-124a320f94e1.png"
+  },
+  {
+    "id": "H04",
+    "category": "hair",
+    "name_th": "ผมสั้นแสกข้างยกโคน",
+    "name_en": "Side Part Quiff",
+    "image": "hairstyles/H04_side_part_quiff.jpg",
+    "original_filename": "40c819a7-555b-4721-9a5a-99aca0830a9d.jpg"
+  },
+  {
+    "id": "H05",
+    "category": "hair",
+    "name_th": "บ๊อบตรงหน้าม้าซีทรู",
+    "name_en": "Straight Bob with See Through Bangs",
+    "image": "hairstyles/H05_straight_bob_with_see_through_bangs.jpg",
+    "original_filename": "45aa8340-8f28-4cd5-97a6-a71ed5fded68.jpg"
+  },
+  {
+    "id": "H06",
+    "category": "hair",
+    "name_th": "ผมยาวเลเยอร์ลอนคลาย",
+    "name_en": "Long Layered Loose Waves",
+    "image": "hairstyles/H06_long_layered_loose_waves.png",
+    "original_filename": "494e65d7-f983-434f-81ca-ac977b92597b.png"
+  },
+  {
+    "id": "H07",
+    "category": "hair",
+    "name_th": "ผมสั้นแสกกลางดัดวอลลุ่ม",
+    "name_en": "Short Curtain Perm",
+    "image": "hairstyles/H07_short_curtain_perm.png",
+    "original_filename": "4b926520-3c6b-414f-8a8a-8e9542c130e7.png"
+  },
+  {
+    "id": "H08",
+    "category": "hair",
+    "name_th": "ผมยาวลอนใหญ่แสกข้าง",
+    "name_en": "Side Part Voluminous Curls",
+    "image": "hairstyles/H08_side_part_voluminous_curls.png",
+    "original_filename": "65e97507-bb4b-4400-94ac-dfb16a7f2376.png"
+  },
+  {
+    "id": "H09",
+    "category": "hair",
+    "name_th": "บ๊อบสั้นดัดลอนแน่น",
+    "name_en": "Short Curly Bob",
+    "image": "hairstyles/H09_short_curly_bob.png",
+    "original_filename": "676a2c86-2593-4b1f-addc-f6cb0be7a9af.png"
+  },
+  {
+    "id": "H10",
+    "category": "hair",
+    "name_th": "ผมสั้นแสกกลางเรียบ",
+    "name_en": "Classic Middle Part",
+    "image": "hairstyles/H10_classic_middle_part.jpg",
+    "original_filename": "7067099c-7534-4d8c-93e1-9946549bbc8d.jpg"
+  },
+  {
+    "id": "H11",
+    "category": "hair",
+    "name_th": "ผมสั้นซอยเท็กซ์เจอร์หน้าม้าปัด",
+    "name_en": "Textured Crop with Swept Fringe",
+    "image": "hairstyles/H11_textured_crop_with_swept_fringe.png",
+    "original_filename": "b452f78a-7eac-4ac7-a501-6bbb456d138c.png"
+  },
+  {
+    "id": "H12",
+    "category": "hair",
+    "name_th": "บ๊อบตรงตัดปลายทื่อแสกกลาง",
+    "name_en": "Middle Part Blunt Bob",
+    "image": "hairstyles/H12_middle_part_blunt_bob.png",
+    "original_filename": "Blunt Bob.png"
+  },
+  {
+    "id": "H13",
+    "category": "hair",
+    "name_th": "ผมยาวลอนใหญ่แสกข้างยกโคน",
+    "name_en": "Side Swept Hollywood Waves",
+    "image": "hairstyles/H13_side_swept_hollywood_waves.png",
+    "original_filename": "ChatGPT Image 1 ต.ค. 2569 11_03_38-2.png"
+  },
+  {
+    "id": "H14",
+    "category": "hair",
+    "name_th": "บ๊อบยาวตรงปลายทื่อ",
+    "name_en": "Straight Blunt Lob",
+    "image": "hairstyles/H14_straight_blunt_lob.png",
+    "original_filename": "ChatGPT Image 1 ต.ค. 2569 11_03_40-3.png"
+  },
+  {
+    "id": "H15",
+    "category": "hair",
+    "name_th": "บ๊อบประบ่าปลายงุ้มแสกข้าง",
+    "name_en": "Side Part C Curve Bob",
+    "image": "hairstyles/H15_side_part_c_curve_bob.png",
+    "original_filename": "ChatGPT Image 1 ต.ค. 2569 11_03_41-4.png"
+  },
+  {
+    "id": "H16",
+    "category": "hair",
+    "name_th": "บ๊อบสั้นตรงหน้าม้าซีทรู",
+    "name_en": "Short Blunt Bob with Wispy Bangs",
+    "image": "hairstyles/H16_short_blunt_bob_with_wispy_bangs.png",
+    "original_filename": "ChatGPT Image 1 ต.ค. 2569 11_03_42-5.png"
+  },
+  {
+    "id": "H17",
+    "category": "hair",
+    "name_th": "วูล์ฟคัตสั้นหน้าม้าซอย",
+    "name_en": "Short Wolf Cut with Fringe",
+    "image": "hairstyles/H17_short_wolf_cut_with_fringe.png",
+    "original_filename": "ChatGPT Image 1 ต.ค. 2569 11_03_45-7.png"
+  },
+  {
+    "id": "H18",
+    "category": "hair",
+    "name_th": "ผมแสกกลางดัดลอนเปิดหน้าผาก",
+    "name_en": "Wavy Middle Part with Lifted Fringe",
+    "image": "hairstyles/H18_wavy_middle_part_with_lifted_fringe.png",
+    "original_filename": "ChatGPT Image 1 ต.ค. 2569 11_03_47-8.png"
+  },
+  {
+    "id": "H19",
+    "category": "hair",
+    "name_th": "ผมสั้นแสกข้างซอยวอลลุ่ม",
+    "name_en": "Textured Side Swept Quiff",
+    "image": "hairstyles/H19_textured_side_swept_quiff.png",
+    "original_filename": "d2c7a777-7eb7-4c61-8031-2e2d624d3505.png"
+  },
+  {
+    "id": "H20",
+    "category": "hair",
+    "name_th": "ผมประบ่าลอนคลายแสกกลาง",
+    "name_en": "Middle Part Wavy Lob",
+    "image": "hairstyles/H20_middle_part_wavy_lob.png",
+    "original_filename": "d6f9dd21-3507-41a1-a443-795362dcacaf.png"
+  },
+  {
+    "id": "H21",
+    "category": "hair",
+    "name_th": "ผมสั้นเสยแสกข้าง",
+    "name_en": "Slicked Side Part",
+    "image": "hairstyles/H21_slicked_side_part.jpg",
+    "original_filename": "da53df65-58c1-452b-8761-adf1e0599a64.jpg"
+  },
+  {
+    "id": "H22",
+    "category": "hair",
+    "name_th": "ผมยาวปานกลางลอนเอสหน้าม้าม่าน",
+    "name_en": "Medium Long S Waves with Curtain Bangs",
+    "image": "hairstyles/H22_medium_long_s_waves_with_curtain_bangs.png",
+    "original_filename": "fbd8b065-8be2-48b4-b3df-952126f92f3b.png"
+  },
+  {
+    "id": "H23",
+    "category": "hair",
+    "name_th": "ทูบล็อกหน้าม้าตรง",
+    "name_en": "Two Block with Straight Fringe",
+    "image": "hairstyles/H23_two_block_with_straight_fringe.png",
+    "original_filename": "two-block.png"
+  },
+  {
+    "id": "C01",
+    "category": "color",
+    "name_th": "เขียวน้ำทะเลเข้ม",
+    "name_en": "Deep Teal",
+    "image": "hair_colors/C01_deep_teal.png",
+    "original_filename": "18744d4c-dbfd-465e-a735-6396f0344279.png"
+  },
+  {
+    "id": "C02",
+    "category": "color",
+    "name_th": "น้ำตาลคาราเมล",
+    "name_en": "Caramel Brown",
+    "image": "hair_colors/C02_caramel_brown.png",
+    "original_filename": "21bf4c81-96c7-4323-9644-953fa6b2491d.png"
+  },
+  {
+    "id": "C03",
+    "category": "color",
+    "name_th": "เขียวมิ้นต์หม่น",
+    "name_en": "Muted Mint Green",
+    "image": "hair_colors/C03_muted_mint_green.png",
+    "original_filename": "3d44047b-1be1-4955-8f47-d27afd6ad4f3.png"
+  },
+  {
+    "id": "C04",
+    "category": "color",
+    "name_th": "บลอนด์เบจหม่น",
+    "name_en": "Ash Beige Blonde",
+    "image": "hair_colors/C04_ash_beige_blonde.png",
+    "original_filename": "3fc24d19-0e7e-478b-ac0b-1824af6272b9.png"
+  },
+  {
+    "id": "C05",
+    "category": "color",
+    "name_th": "ชมพูกุหลาบ",
+    "name_en": "Rose Pink",
+    "image": "hair_colors/C05_rose_pink.png",
+    "original_filename": "429ba645-fc16-435a-92cb-6f410cf64c1e.png"
+  },
+  {
+    "id": "C06",
+    "category": "color",
+    "name_th": "แดงเชอร์รี",
+    "name_en": "Cherry Red",
+    "image": "hair_colors/C06_cherry_red.png",
+    "original_filename": "47c1ba79-e048-4d9b-b359-682a211aa867.png"
+  },
+  {
+    "id": "C07",
+    "category": "color",
+    "name_th": "ชมพูโรสโกลด์หม่น",
+    "name_en": "Dusty Rose Gold",
+    "image": "hair_colors/C07_dusty_rose_gold.png",
+    "original_filename": "58ea72a8-9388-4e41-bed6-7a5f5677db03.png"
+  },
+  {
+    "id": "C08",
+    "category": "color",
+    "name_th": "น้ำตาลมิลค์ที",
+    "name_en": "Milk Tea Brown",
+    "image": "hair_colors/C08_milk_tea_brown.png",
+    "original_filename": "664a0362-0561-479e-a282-0e31c23c829c.png"
+  },
+  {
+    "id": "C09",
+    "category": "color",
+    "name_th": "ฟ้าหม่นเงิน",
+    "name_en": "Silver Blue",
+    "image": "hair_colors/C09_silver_blue.png",
+    "original_filename": "7a68e93b-53dd-44b5-9627-2ad6890b9302.png"
+  },
+  {
+    "id": "C10",
+    "category": "color",
+    "name_th": "น้ำตาลไฮไลต์เบจ",
+    "name_en": "Brown with Beige Highlights",
+    "image": "hair_colors/C10_brown_with_beige_highlights.png",
+    "original_filename": "84dbb5bd-9b95-43fa-b10e-9369c0e00359.png"
+  },
+  {
+    "id": "C11",
+    "category": "color",
+    "name_th": "ดำธรรมชาติ",
+    "name_en": "Natural Black",
+    "image": "hair_colors/C11_natural_black.jpg",
+    "original_filename": "9344838a-376a-4a0b-adf0-f26cfec60f00.jpg"
+  },
+  {
+    "id": "C12",
+    "category": "color",
+    "name_th": "เขียวมรกตเข้ม",
+    "name_en": "Deep Emerald Green",
+    "image": "hair_colors/C12_deep_emerald_green.png",
+    "original_filename": "97060ecf-d013-4208-b244-490c0c94563f.png"
+  },
+  {
+    "id": "C13",
+    "category": "color",
+    "name_th": "เทาหม่นอมม่วง",
+    "name_en": "Violet Ash Grey",
+    "image": "hair_colors/C13_violet_ash_grey.png",
+    "original_filename": "c5103282-0532-48a2-b361-6ccf691b4349.png"
+  },
+  {
+    "id": "C14",
+    "category": "color",
+    "name_th": "แดงไวน์เบอร์กันดี",
+    "name_en": "Burgundy Wine Red",
+    "image": "hair_colors/C14_burgundy_wine_red.png",
+    "original_filename": "ChatGPT Image 29 ก.ย. 2569 20_32_06-1.png"
+  },
+  {
+    "id": "C15",
+    "category": "color",
+    "name_th": "น้ำเงินเทาหม่น",
+    "name_en": "Smoky Blue Grey",
+    "image": "hair_colors/C15_smoky_blue_grey.png",
+    "original_filename": "ChatGPT Image 29 ก.ย. 2569 20_32_07-2.png"
+  },
+  {
+    "id": "C16",
+    "category": "color",
+    "name_th": "บลอนด์ครีม",
+    "name_en": "Cream Blonde",
+    "image": "hair_colors/C16_cream_blonde.png",
+    "original_filename": "ChatGPT Image 29 ก.ย. 2569 20_32_09-3.png"
+  },
+  {
+    "id": "C17",
+    "category": "color",
+    "name_th": "ส้มทองแดงสว่าง",
+    "name_en": "Bright Copper Orange",
+    "image": "hair_colors/C17_bright_copper_orange.png",
+    "original_filename": "ChatGPT Image 29 ก.ย. 2569 20_32_11-5.png"
+  },
+  {
+    "id": "C18",
+    "category": "color",
+    "name_th": "ม่วงพลัมเข้ม",
+    "name_en": "Deep Plum Purple",
+    "image": "hair_colors/C18_deep_plum_purple.png",
+    "original_filename": "da4cfa0d-051d-4471-aad8-cccf7f686981.png"
+  },
+  {
+    "id": "C19",
+    "category": "color",
+    "name_th": "ม่วงลาเวนเดอร์เงิน",
+    "name_en": "Silver Lavender",
+    "image": "hair_colors/C19_silver_lavender.png",
+    "original_filename": "fc341984-4ddc-439c-bd69-92c14f355c2b.png"
+  },
+  {
+    "id": "C20",
+    "category": "color",
+    "name_th": "ชมพูแมเจนตาเข้ม",
+    "name_en": "Deep Magenta",
+    "image": "hair_colors/C20_deep_magenta.png",
+    "original_filename": "fcb801ac-8510-401d-861d-b1e22e1a2937.png"
+  },
+  {
+    "id": "C21",
+    "category": "color",
+    "name_th": "ม่วงไฮไลต์ชมพูโรส",
+    "name_en": "Purple with Rose Pink Highlights",
+    "image": "hair_colors/C21_purple_with_rose_pink_highlights.jpg",
+    "original_filename": "Gemini_Generated_Image_qhs2kbqhs2kbqhs2.jpg"
+  },
+  {
+    "id": "C22",
+    "category": "color",
+    "name_th": "ม่วงไวโอเล็ต",
+    "name_en": "Violet Purple",
+    "image": "hair_colors/C22_violet_purple.png",
+    "original_filename": "ผมม่วงไวโอเล็ตเต็มศีรษะ-10.png"
+  },
+  {
+    "id": "C23",
+    "category": "color",
+    "name_th": "ชมพูฝุ่นเข้ม",
+    "name_en": "Deep Dusty Pink",
+    "image": "hair_colors/C23_deep_dusty_pink.png",
+    "original_filename": "พอร์ตเทรตผมชมพูฝุ่นโทนเดียว-8.png"
+  },
+  {
+    "id": "C24",
+    "category": "color",
+    "name_th": "ชมพูโรสสว่าง",
+    "name_en": "Bright Rose Pink",
+    "image": "hair_colors/C24_bright_rose_pink.png",
+    "original_filename": "พอร์ตเทรตผมสีชมพูโรสสม่ำเสมอ-4.png"
+  },
+  {
+    "id": "C25",
+    "category": "color",
+    "name_th": "เหลืองทองสด",
+    "name_en": "Vivid Golden Yellow",
+    "image": "hair_colors/C25_vivid_golden_yellow.png",
+    "original_filename": "พอร์ตเทรตผมสีทองเหลืองอร่าม-2.png"
+  },
+  {
+    "id": "C26",
+    "category": "color",
+    "name_th": "ฟ้าพาสเทล",
+    "name_en": "Pastel Blue",
+    "image": "hair_colors/C26_pastel_blue.png",
+    "original_filename": "ภาพพอร์ตเทรตหญิงผมสีฟ้าพาสเทล-3.png"
+  },
+  {
+    "id": "C27",
+    "category": "color",
+    "name_th": "ม่วงลาเวนเดอร์",
+    "name_en": "Lavender Purple",
+    "image": "hair_colors/C27_lavender_purple.png",
+    "original_filename": "หญิงสาวผมสีม่วงลาเวนเดอร์-1.png"
+  },
+  {
+    "id": "C28",
+    "category": "color",
+    "name_th": "ส้มทองแดงเข้ม",
+    "name_en": "Deep Copper Orange",
+    "image": "hair_colors/C28_deep_copper_orange.png",
+    "original_filename": "เส้นผมสีส้มทองแดงสม่ำเสมอ-6.png"
+  }
+]

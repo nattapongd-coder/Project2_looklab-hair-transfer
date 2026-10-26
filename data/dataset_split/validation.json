@@ -1,0 +1,116 @@
+[
+  {
+    "id": "color_013",
+    "file": "validation/colors/color_013.png",
+    "category": "colors",
+    "group_id": "color_013"
+  },
+  {
+    "id": "color_014",
+    "file": "validation/colors/color_014.png",
+    "category": "colors",
+    "group_id": "brown_variant"
+  },
+  {
+    "id": "color_016",
+    "file": "validation/colors/color_016.png",
+    "category": "colors",
+    "group_id": "brown_variant"
+  },
+  {
+    "id": "color_036",
+    "file": "validation/colors/color_036.png",
+    "category": "colors",
+    "group_id": "color_036"
+  },
+  {
+    "id": "color_037",
+    "file": "validation/colors/color_037.png",
+    "category": "colors",
+    "group_id": "color_037"
+  },
+  {
+    "id": "face_001",
+    "file": "validation/faces/face_001.jpg",
+    "category": "faces",
+    "group_id": "person_001"
+  },
+  {
+    "id": "face_003",
+    "file": "validation/faces/face_003.jpg",
+    "category": "faces",
+    "group_id": "person_003"
+  },
+  {
+    "id": "face_013",
+    "file": "validation/faces/face_013.png",
+    "category": "faces",
+    "group_id": "person_011"
+  },
+  {
+    "id": "face_014",
+    "file": "validation/faces/face_014.jpg",
+    "category": "faces",
+    "group_id": "person_011"
+  },
+  {
+    "id": "face_023",
+    "file": "validation/faces/face_023.jpg",
+    "category": "faces",
+    "group_id": "person_017"
+  },
+  {
+    "id": "face_037",
+    "file": "validation/faces/face_037.jpg",
+    "category": "faces",
+    "group_id": "person_028"
+  },
+  {
+    "id": "face_038",
+    "file": "validation/faces/face_038.jpg",
+    "category": "faces",
+    "group_id": "person_028"
+  },
+  {
+    "id": "face_041",
+    "file": "validation/faces/face_041.jpg",
+    "category": "faces",
+    "group_id": "person_030"
+  },
+  {
+    "id": "face_057",
+    "file": "validation/faces/face_057.jpg",
+    "category": "faces",
+    "group_id": "person_040"
+  },
+  {
+    "id": "style_011",
+    "file": "validation/styles/style_011.png",
+    "category": "styles",
+    "group_id": "hair_011"
+  },
+  {
+    "id": "style_018",
+    "file": "validation/styles/style_018.png",
+    "category": "styles",
+    "group_id": "hair_018"
+  },
+  {
+    "id": "style_022",
+    "file": "validation/styles/style_022.png",
+    "category": "styles",
+    "group_id": "hair_022"
+  },
+  {
+    "id": "style_025",
+    "file": "validation/styles/style_025.png",
+    "category": "styles",
+    "group_id": "hair_025"
+  },
+  {
+    "id": "style_038",
+    "file": "validation/styles/style_038.jpg",
+    "category": "styles",
+    "group_id": "hair_038"
+  }
+]

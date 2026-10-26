@@ -1,0 +1,72 @@
+[
+  {
+    "key": "test_000",
+    "face": "face_002",
+    "shape": "style_021",
+    "color": "color_029",
+    "face_group": "person_002"
+  },
+  {
+    "key": "test_001",
+    "face": "face_008",
+    "shape": "style_019",
+    "color": "color_031",
+    "face_group": "person_006"
+  },
+  {
+    "key": "test_002",
+    "face": "face_017",
+    "shape": "style_035",
+    "color": "color_033",
+    "face_group": "person_013"
+  },
+  {
+    "key": "test_003",
+    "face": "face_024",
+    "shape": "style_029",
+    "color": "color_032",
+    "face_group": "person_018"
+  },
+  {
+    "key": "test_004",
+    "face": "face_025",
+    "shape": "style_012",
+    "color": "color_030",
+    "face_group": "person_018"
+  },
+  {
+    "key": "test_005",
+    "face": "face_032",
+    "shape": "style_021",
+    "color": "color_029",
+    "face_group": "person_024"
+  },
+  {
+    "key": "test_006",
+    "face": "face_043",
+    "shape": "style_019",
+    "color": "color_031",
+    "face_group": "person_032"
+  },
+  {
+    "key": "test_007",
+    "face": "face_044",
+    "shape": "style_035",
+    "color": "color_033",
+    "face_group": "person_032"
+  },
+  {
+    "key": "test_008",
+    "face": "face_058",
+    "shape": "style_029",
+    "color": "color_032",
+    "face_group": "person_041"
+  },
+  {
+    "key": "test_009",
+    "face": "face_059",
+    "shape": "style_012",
+    "color": "color_030",
+    "face_group": "person_041"
+  }
+]

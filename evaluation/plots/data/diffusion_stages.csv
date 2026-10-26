@@ -1,0 +1,9 @@
+model,stage,MUSIQ,ArcFace
+Barbershop,ก่อน,70.096,0.7019
+Barbershop,Diffusion,68.459,0.5362
+Barbershop,พื้นหลัง,68.459,0.5362
+Barbershop,Sharp,69.551,0.5356
+HairFastGAN B24,ก่อน,55.836,0.8446
+HairFastGAN B24,Diffusion,53.681,0.7232
+HairFastGAN B24,พื้นหลัง,53.681,0.7232
+HairFastGAN B24,Sharp,54.095,0.7233

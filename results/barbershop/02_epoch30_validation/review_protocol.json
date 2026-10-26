@@ -1,0 +1,55 @@
+{
+  "study": "27f7f146ef0d",
+  "review_type": "Exploratory validation-only baseline versus fixed epoch30",
+  "validation_keys": [
+    "val_000",
+    "val_001",
+    "val_002",
+    "val_003",
+    "val_004",
+    "val_005",
+    "val_006",
+    "val_007",
+    "val_008"
+  ],
+  "models": [
+    "Baseline",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "checkpoint_info": {
+    "A": {
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_A/final_epoch30.pt",
+      "sha256": "a158b74e1ab38d0e4bba91de1337786aff9e4a1a7ad1d8566b7abfdb9ec9553a",
+      "epoch": 30,
+      "weight_sha256": "92049009bd0975e73f4d0da005bd8d151a340c583fe3eb33ab044f865c0fcd8e",
+      "original_best_epoch": 0
+    },
+    "B": {
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_B/final_epoch30.pt",
+      "sha256": "4d48ddd1426fc8608daa56dbf9655433e51236c455acbf8f220380e64be10de7",
+      "epoch": 30,
+      "weight_sha256": "ce4248d89f00bc837dc654a53979ba9d2f77682f39670e125a7382591301f179",
+      "original_best_epoch": 0
+    },
+    "C": {
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_C/final_epoch30.pt",
+      "sha256": "f5afcb5a584d298063e8c40c20a75728a32d09f4f625e50c7bb2bf6db33faa70",
+      "epoch": 30,
+      "weight_sha256": "cfcb22a3129d1247e0703709762031f68d1ce285ee6ec85ece23a5de58065b9f",
+      "original_best_epoch": 0
+    },
+    "D": {
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_D/final_epoch30.pt",
+      "sha256": "d6f855f15f8eab07fd7a56e13cd154214ba05ffdd19f693ddf79b428dc714108",
+      "epoch": 30,
+      "weight_sha256": "75dc7434fd9f0f13ceb04a49d5e6fe26de368d90b99e918acabdd5d787719cb3",
+      "original_best_epoch": 0
+    }
+  },
+  "selection_changed": false,
+  "test_evaluated": false,
+  "note": "Epoch30 was fixed in advance of this review; no new best checkpoint is selected. Detail measures change from own baseline, not independent quality. IoU uses HFG-derived targets."
+}

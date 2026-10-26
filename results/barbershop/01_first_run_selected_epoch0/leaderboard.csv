@@ -1,0 +1,5 @@
+trial,best_epoch,score,weight_updates,checkpoint
+A,0,1.0,4500,/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_A/best.pt
+B,0,1.0,4500,/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_B/best.pt
+C,0,1.0,4500,/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_C/best.pt
+D,0,1.0,4500,/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_D/best.pt

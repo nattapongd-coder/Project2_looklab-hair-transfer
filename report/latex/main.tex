@@ -1,0 +1,87 @@
+% !TEX program = xelatex
+\documentclass{cpkkuproject}
+% -----------------------------------------------------------
+% แก้ตาราง p{} column ให้ข้อความไม่ห่าง
+% -----------------------------------------------------------
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\usepackage{longtable}
+% --- รายการตัวแปรใต้สมการ: \begin{vardef} $x$ & คำอธิบาย \\ ... \end{vardef}
+\newenvironment{vardef}{\par\noindent โดยที่\par\begin{center}\begin{tabular}{r@{\ =\ }L{0.66\textwidth}}}{\end{tabular}\end{center}}
+% -----------------------------------------------------------
+% จำกัด resolution รูปภาพเพื่อลด compile time
+% -----------------------------------------------------------
+\usepackage{graphicx}
+% -----------------------------------------------------------
+% ข้อมูลโครงงาน
+% -----------------------------------------------------------
+\titleTH{การถ่ายโอนทรงผมและสีผมด้วย GAN เสริมด้วย Diffusion Model
+สำหรับปรับปรุงความเรียบเนียนของเส้นผม}
+\titleEN{GAN-based Hair Transfer with Diffusion Post-processing for
+Seamless Hairline and Texture Refinement}
+\firstStudentID{663380264-9}
+\firstStudentPrefixTH{}
+\firstStudentPrefixEN{}
+\firstStudentNameTH{นายณัฐพงษ์ ด้างถางคำ}
+\firstStudentNameEN{Nattapong Dangthangkham}
+\secondStudentID{663380272-0}
+\secondStudentPrefixTH{}
+\secondStudentPrefixEN{Mr.}
+\secondStudentNameTH{นายธนเดช วาตรีบุญเรือง}
+\secondStudentNameEN{Thanadet Wateeboonreang}
+\degreeTH{วิทยาศาสตรบัณฑิต}
+\degreeEN{Bachelor of Science}
+\majorTH{ปัญญาประดิษฐ์}
+\majorEN{Artificial Intelligence}
+\advisorTH{อ.ดร.ญานิกา คงโสรส}
+\advisorEN{Lecturer Yanika Kongsorot, Ph.D.}
+\academicYearTH{2568}
+\academicYearEN{2025}
+\keywordsTH{การถ่ายโอนทรงผม, การถ่ายโอนสีผม, การปรับจูนโมเดล, การปรับปรุงคุณภาพหลังกระบวนการด้วยดิฟฟิวชัน, การคงเอกลักษณ์ใบหน้า}
+\keywordsEN{Hairstyle Transfer, Hair Color Transfer, Fine-tuning, Diffusion Post-processing, Identity Preservation}
+% -----------------------------------------------------------
+\setlength{\headheight}{14.5pt}
+\hyphenation{ChatGPT}
+\setlength{\extrarowheight}{3pt}
+\begin{document}
+% -----------------------------------------------------------
+\maketitlepage
+% --- หน้าหมายเลขไทย (ก ข ค ...) ---
+\pagenumbering{arabic}
+\setcounter{page}{0}
+\renewcommand{\thepage}{\ThaiAlph{\value{page}}}
+\begin{abstractTH}
+\input{abstractTH}
+\end{abstractTH}
+\begin{abstractEN}
+\input{abstractEN}
+\end{abstractEN}
+\begin{acknowledgement}
+\input{acknowledgement}
+\end{acknowledgement}
+\tableofcontents
+\clearpage
+\listoffigures
+\clearpage
+\listoftables
+\clearpage
+% --- หน้าหมายเลขอารบิก (1 2 3 ...) ---
+\pagenumbering{arabic}
+\setcounter{page}{1}
+% --- เนื้อหาบทที่ 1--5 ---
+\chapterone
+\chaptertwo
+\chapterthree
+\chapterfour
+\chapterfive
+% --- บรรณานุกรม ---
+\clearpage
+\addcontentsline{toc}{chapter}{บรรณานุกรม}
+\makeatletter
+\let\ps@plain\ps@empty
+\makeatother
+\bibliographystyle{ieeetr}
+\bibliography{references}
+% --- ภาคผนวก ---
+\input{appendices}
+\end{document}

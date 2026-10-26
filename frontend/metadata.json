@@ -1,0 +1,10 @@
+{
+  "name": "LOOKLAB_FINAL",
+  "description": "Real-time AR hairstyle preview and realistic HairFastGAN hairstyle generator",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

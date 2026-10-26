@@ -1,0 +1,58 @@
+ชุดรูปสำหรับเว็บ: ทรงผม 23 รูป และสีผม 28 รูป
+เปลี่ยนชื่อไฟล์ให้ตรงกับภาพ โดยคงข้อมูลภาพต้นฉบับ ไม่ได้รีทัชทรงหรือสีผม
+ชื่อเป็นคำบรรยายจากภาพ ไม่ใช่รหัสสีของแบรนด์ สีที่เห็นขึ้นอยู่กับแสงและหน้าจอ
+แตก ZIP แล้วเปิด catalog.html เพื่อเทียบรูปกับชื่อไทย–อังกฤษ
+ชื่อไฟล์ภาษาอังกฤษใช้เชื่อมกับเว็บได้ โดยมีชื่อไทยใน catalog.json และ names.csv
+รหัส H/C เป็นลำดับภายในชุด ZIP นี้
+
+H01 | ผมยาวลอนคลายหน้าม้าม่าน | Long Waves with Curtain Bangs
+H02 | บ๊อบสั้นลอนคลายแสกข้าง | Side Part Wavy Bob
+H03 | ผมแสกกลางเกาหลีหน้าม้าปรกหน้าผาก | Korean Curtain Hair
+H04 | ผมสั้นแสกข้างยกโคน | Side Part Quiff
+H05 | บ๊อบตรงหน้าม้าซีทรู | Straight Bob with See Through Bangs
+H06 | ผมยาวเลเยอร์ลอนคลาย | Long Layered Loose Waves
+H07 | ผมสั้นแสกกลางดัดวอลลุ่ม | Short Curtain Perm
+H08 | ผมยาวลอนใหญ่แสกข้าง | Side Part Voluminous Curls
+H09 | บ๊อบสั้นดัดลอนแน่น | Short Curly Bob
+H10 | ผมสั้นแสกกลางเรียบ | Classic Middle Part
+H11 | ผมสั้นซอยเท็กซ์เจอร์หน้าม้าปัด | Textured Crop with Swept Fringe
+H12 | บ๊อบตรงตัดปลายทื่อแสกกลาง | Middle Part Blunt Bob
+H13 | ผมยาวลอนใหญ่แสกข้างยกโคน | Side Swept Hollywood Waves
+H14 | บ๊อบยาวตรงปลายทื่อ | Straight Blunt Lob
+H15 | บ๊อบประบ่าปลายงุ้มแสกข้าง | Side Part C Curve Bob
+H16 | บ๊อบสั้นตรงหน้าม้าซีทรู | Short Blunt Bob with Wispy Bangs
+H17 | วูล์ฟคัตสั้นหน้าม้าซอย | Short Wolf Cut with Fringe
+H18 | ผมแสกกลางดัดลอนเปิดหน้าผาก | Wavy Middle Part with Lifted Fringe
+H19 | ผมสั้นแสกข้างซอยวอลลุ่ม | Textured Side Swept Quiff
+H20 | ผมประบ่าลอนคลายแสกกลาง | Middle Part Wavy Lob
+H21 | ผมสั้นเสยแสกข้าง | Slicked Side Part
+H22 | ผมยาวปานกลางลอนเอสหน้าม้าม่าน | Medium Long S Waves with Curtain Bangs
+H23 | ทูบล็อกหน้าม้าตรง | Two Block with Straight Fringe
+C01 | เขียวน้ำทะเลเข้ม | Deep Teal
+C02 | น้ำตาลคาราเมล | Caramel Brown
+C03 | เขียวมิ้นต์หม่น | Muted Mint Green
+C04 | บลอนด์เบจหม่น | Ash Beige Blonde
+C05 | ชมพูกุหลาบ | Rose Pink
+C06 | แดงเชอร์รี | Cherry Red
+C07 | ชมพูโรสโกลด์หม่น | Dusty Rose Gold
+C08 | น้ำตาลมิลค์ที | Milk Tea Brown
+C09 | ฟ้าหม่นเงิน | Silver Blue
+C10 | น้ำตาลไฮไลต์เบจ | Brown with Beige Highlights
+C11 | ดำธรรมชาติ | Natural Black
+C12 | เขียวมรกตเข้ม | Deep Emerald Green
+C13 | เทาหม่นอมม่วง | Violet Ash Grey
+C14 | แดงไวน์เบอร์กันดี | Burgundy Wine Red
+C15 | น้ำเงินเทาหม่น | Smoky Blue Grey
+C16 | บลอนด์ครีม | Cream Blonde
+C17 | ส้มทองแดงสว่าง | Bright Copper Orange
+C18 | ม่วงพลัมเข้ม | Deep Plum Purple
+C19 | ม่วงลาเวนเดอร์เงิน | Silver Lavender
+C20 | ชมพูแมเจนตาเข้ม | Deep Magenta
+C21 | ม่วงไฮไลต์ชมพูโรส | Purple with Rose Pink Highlights
+C22 | ม่วงไวโอเล็ต | Violet Purple
+C23 | ชมพูฝุ่นเข้ม | Deep Dusty Pink
+C24 | ชมพูโรสสว่าง | Bright Rose Pink
+C25 | เหลืองทองสด | Vivid Golden Yellow
+C26 | ฟ้าพาสเทล | Pastel Blue
+C27 | ม่วงลาเวนเดอร์ | Lavender Purple
+C28 | ส้มทองแดงเข้ม | Deep Copper Orange

@@ -1,0 +1,44 @@
+# secrets — ห้ามขึ้น GitHub
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# checkpoints / model weights (ฝากไว้ใน Google Drive แทน ดู docs/CHECKPOINTS.md)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+checkpoints/
+pretrained_models/
+
+# datasets / face images
+dataset/
+datasets/
+outputs/
+*.zip
+
+# node / build
+node_modules/
+dist/
+build/
+server-dist/
+.vercel/
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# LaTeX build files (เก็บ output.* ไว้เป็น cache ให้ Overleaf)
+*.log
+*.synctex.gz
+*.xdv
+
+# OS
+.DS_Store
+Thumbs.db

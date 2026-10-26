@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "models": [
+    "Baseline",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "cases": 10,
+  "metric_rows": 50,
+  "no_test_based_selection": true
+}

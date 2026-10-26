@@ -1,0 +1,7 @@
+metric,max_abs_diff,tolerance,ok
+L_quantile,0.0020246505737286924,0.05,True
+ab_quantile,0.0007781982421875,0.05,True
+target_mask_IoU,5.638599395751953e-05,0.005,True
+identity_cosine,4.76837158203125e-07,0.005,True
+protected_RGB_MAE_vs_input,2.4005770683330208e-05,0.001,True
+protected_SSIM,4.285573959350586e-05,0.005,True

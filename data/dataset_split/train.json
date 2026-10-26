@@ -1,0 +1,488 @@
+[
+  {
+    "id": "color_007",
+    "file": "train/colors/color_007.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_008",
+    "file": "train/colors/color_008.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_009",
+    "file": "train/colors/color_009.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_010",
+    "file": "train/colors/color_010.png",
+    "category": "colors",
+    "group_id": "color_010"
+  },
+  {
+    "id": "color_011",
+    "file": "train/colors/color_011.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_012",
+    "file": "train/colors/color_012.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_015",
+    "file": "train/colors/color_015.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_017",
+    "file": "train/colors/color_017.jpg",
+    "category": "colors",
+    "group_id": "color_017"
+  },
+  {
+    "id": "color_018",
+    "file": "train/colors/color_018.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_019",
+    "file": "train/colors/color_019.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_020",
+    "file": "train/colors/color_020.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_021",
+    "file": "train/colors/color_021.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_022",
+    "file": "train/colors/color_022.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_023",
+    "file": "train/colors/color_023.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_024",
+    "file": "train/colors/color_024.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_025",
+    "file": "train/colors/color_025.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_026",
+    "file": "train/colors/color_026.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_027",
+    "file": "train/colors/color_027.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_028",
+    "file": "train/colors/color_028.png",
+    "category": "colors",
+    "group_id": "template_highlight"
+  },
+  {
+    "id": "color_034",
+    "file": "train/colors/color_034.png",
+    "category": "colors",
+    "group_id": "template_portrait"
+  },
+  {
+    "id": "color_035",
+    "file": "train/colors/color_035.png",
+    "category": "colors",
+    "group_id": "color_035"
+  },
+  {
+    "id": "face_004",
+    "file": "train/faces/face_004.jpg",
+    "category": "faces",
+    "group_id": "person_004"
+  },
+  {
+    "id": "face_006",
+    "file": "train/faces/face_006.jpg",
+    "category": "faces",
+    "group_id": "person_005"
+  },
+  {
+    "id": "face_007",
+    "file": "train/faces/face_007.jpg",
+    "category": "faces",
+    "group_id": "person_005"
+  },
+  {
+    "id": "face_009",
+    "file": "train/faces/face_009.png",
+    "category": "faces",
+    "group_id": "person_007"
+  },
+  {
+    "id": "face_010",
+    "file": "train/faces/face_010.png",
+    "category": "faces",
+    "group_id": "person_008"
+  },
+  {
+    "id": "face_011",
+    "file": "train/faces/face_011.jpg",
+    "category": "faces",
+    "group_id": "person_009"
+  },
+  {
+    "id": "face_012",
+    "file": "train/faces/face_012.jpeg",
+    "category": "faces",
+    "group_id": "person_010"
+  },
+  {
+    "id": "face_015",
+    "file": "train/faces/face_015.jpg",
+    "category": "faces",
+    "group_id": "person_012"
+  },
+  {
+    "id": "face_016",
+    "file": "train/faces/face_016.jpg",
+    "category": "faces",
+    "group_id": "person_012"
+  },
+  {
+    "id": "face_018",
+    "file": "train/faces/face_018.jpg",
+    "category": "faces",
+    "group_id": "person_014"
+  },
+  {
+    "id": "face_019",
+    "file": "train/faces/face_019.jpg",
+    "category": "faces",
+    "group_id": "person_014"
+  },
+  {
+    "id": "face_020",
+    "file": "train/faces/face_020.png",
+    "category": "faces",
+    "group_id": "person_014"
+  },
+  {
+    "id": "face_021",
+    "file": "train/faces/face_021.jpg",
+    "category": "faces",
+    "group_id": "person_015"
+  },
+  {
+    "id": "face_022",
+    "file": "train/faces/face_022.png",
+    "category": "faces",
+    "group_id": "person_016"
+  },
+  {
+    "id": "face_026",
+    "file": "train/faces/face_026.png",
+    "category": "faces",
+    "group_id": "person_019"
+  },
+  {
+    "id": "face_027",
+    "file": "train/faces/face_027.jpg",
+    "category": "faces",
+    "group_id": "person_020"
+  },
+  {
+    "id": "face_028",
+    "file": "train/faces/face_028.jpg",
+    "category": "faces",
+    "group_id": "person_021"
+  },
+  {
+    "id": "face_029",
+    "file": "train/faces/face_029.png",
+    "category": "faces",
+    "group_id": "person_022"
+  },
+  {
+    "id": "face_030",
+    "file": "train/faces/face_030.png",
+    "category": "faces",
+    "group_id": "person_023"
+  },
+  {
+    "id": "face_031",
+    "file": "train/faces/face_031.png",
+    "category": "faces",
+    "group_id": "person_023"
+  },
+  {
+    "id": "face_033",
+    "file": "train/faces/face_033.jpeg",
+    "category": "faces",
+    "group_id": "person_025"
+  },
+  {
+    "id": "face_035",
+    "file": "train/faces/face_035.png",
+    "category": "faces",
+    "group_id": "person_026"
+  },
+  {
+    "id": "face_036",
+    "file": "train/faces/face_036.jpg",
+    "category": "faces",
+    "group_id": "person_027"
+  },
+  {
+    "id": "face_039",
+    "file": "train/faces/face_039.jpg",
+    "category": "faces",
+    "group_id": "person_029"
+  },
+  {
+    "id": "face_040",
+    "file": "train/faces/face_040.jpeg",
+    "category": "faces",
+    "group_id": "person_029"
+  },
+  {
+    "id": "face_042",
+    "file": "train/faces/face_042.jpeg",
+    "category": "faces",
+    "group_id": "person_031"
+  },
+  {
+    "id": "face_045",
+    "file": "train/faces/face_045.png",
+    "category": "faces",
+    "group_id": "person_033"
+  },
+  {
+    "id": "face_046",
+    "file": "train/faces/face_046.png",
+    "category": "faces",
+    "group_id": "person_033"
+  },
+  {
+    "id": "face_047",
+    "file": "train/faces/face_047.jpg",
+    "category": "faces",
+    "group_id": "person_034"
+  },
+  {
+    "id": "face_048",
+    "file": "train/faces/face_048.jpg",
+    "category": "faces",
+    "group_id": "person_034"
+  },
+  {
+    "id": "face_049",
+    "file": "train/faces/face_049.jpg",
+    "category": "faces",
+    "group_id": "person_035"
+  },
+  {
+    "id": "face_050",
+    "file": "train/faces/face_050.png",
+    "category": "faces",
+    "group_id": "person_036"
+  },
+  {
+    "id": "face_051",
+    "file": "train/faces/face_051.jpg",
+    "category": "faces",
+    "group_id": "person_036"
+  },
+  {
+    "id": "face_052",
+    "file": "train/faces/face_052.png",
+    "category": "faces",
+    "group_id": "person_037"
+  },
+  {
+    "id": "face_053",
+    "file": "train/faces/face_053.jpg",
+    "category": "faces",
+    "group_id": "person_037"
+  },
+  {
+    "id": "face_054",
+    "file": "train/faces/face_054.jpeg",
+    "category": "faces",
+    "group_id": "person_037"
+  },
+  {
+    "id": "face_055",
+    "file": "train/faces/face_055.png",
+    "category": "faces",
+    "group_id": "person_038"
+  },
+  {
+    "id": "face_056",
+    "file": "train/faces/face_056.jpeg",
+    "category": "faces",
+    "group_id": "person_039"
+  },
+  {
+    "id": "face_060",
+    "file": "train/faces/face_060.jpg",
+    "category": "faces",
+    "group_id": "person_042"
+  },
+  {
+    "id": "style_006",
+    "file": "train/styles/style_006.png",
+    "category": "styles",
+    "group_id": "hair_006"
+  },
+  {
+    "id": "style_013",
+    "file": "train/styles/style_013.png",
+    "category": "styles",
+    "group_id": "hair_013"
+  },
+  {
+    "id": "style_014",
+    "file": "train/styles/style_014.jpg",
+    "category": "styles",
+    "group_id": "hair_014"
+  },
+  {
+    "id": "style_015",
+    "file": "train/styles/style_015.jpg",
+    "category": "styles",
+    "group_id": "hair_015"
+  },
+  {
+    "id": "style_016",
+    "file": "train/styles/style_016.png",
+    "category": "styles",
+    "group_id": "hair_016"
+  },
+  {
+    "id": "style_017",
+    "file": "train/styles/style_017.png",
+    "category": "styles",
+    "group_id": "hair_017"
+  },
+  {
+    "id": "style_020",
+    "file": "train/styles/style_020.png",
+    "category": "styles",
+    "group_id": "hair_020"
+  },
+  {
+    "id": "style_023",
+    "file": "train/styles/style_023.png",
+    "category": "styles",
+    "group_id": "hair_023"
+  },
+  {
+    "id": "style_001",
+    "file": "train/styles/style_001.png",
+    "category": "styles",
+    "group_id": "hair_001"
+  },
+  {
+    "id": "style_026",
+    "file": "train/styles/style_026.png",
+    "category": "styles",
+    "group_id": "hair_026"
+  },
+  {
+    "id": "style_027",
+    "file": "train/styles/style_027.png",
+    "category": "styles",
+    "group_id": "hair_027"
+  },
+  {
+    "id": "style_028",
+    "file": "train/styles/style_028.png",
+    "category": "styles",
+    "group_id": "hair_028"
+  },
+  {
+    "id": "style_030",
+    "file": "train/styles/style_030.png",
+    "category": "styles",
+    "group_id": "hair_030"
+  },
+  {
+    "id": "style_031",
+    "file": "train/styles/style_031.png",
+    "category": "styles",
+    "group_id": "hair_031"
+  },
+  {
+    "id": "style_032",
+    "file": "train/styles/style_032.png",
+    "category": "styles",
+    "group_id": "hair_032"
+  },
+  {
+    "id": "style_033",
+    "file": "train/styles/style_033.png",
+    "category": "styles",
+    "group_id": "hair_033"
+  },
+  {
+    "id": "style_034",
+    "file": "train/styles/style_034.png",
+    "category": "styles",
+    "group_id": "hair_034"
+  },
+  {
+    "id": "style_036",
+    "file": "train/styles/style_036.png",
+    "category": "styles",
+    "group_id": "hair_036"
+  },
+  {
+    "id": "style_037",
+    "file": "train/styles/style_037.png",
+    "category": "styles",
+    "group_id": "hair_037"
+  },
+  {
+    "id": "style_039",
+    "file": "train/styles/style_039.png",
+    "category": "styles",
+    "group_id": "hair_039"
+  },
+  {
+    "id": "style_040",
+    "file": "train/styles/style_040.png",
+    "category": "styles",
+    "group_id": "hair_040"
+  }
+]

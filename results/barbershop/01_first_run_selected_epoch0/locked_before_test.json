@@ -1,0 +1,92 @@
+{
+  "protocol_id": "27f7f146ef0d",
+  "selected_on_validation": "Baseline",
+  "checkpoints": {
+    "A": {
+      "epoch": 0,
+      "score": 1.0,
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/locked_A.pt",
+      "sha256": "deabf8181086472c409b0c8bc2b1e60259cebfcbee5a7fce55620e29ac3fe0a2"
+    },
+    "B": {
+      "epoch": 0,
+      "score": 1.0,
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/locked_B.pt",
+      "sha256": "2a4b8bc4ffc94314c2c96f43463bb356b0b6256c0924a78afcfc0e6837b05784"
+    },
+    "C": {
+      "epoch": 0,
+      "score": 1.0,
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/locked_C.pt",
+      "sha256": "c614b38ccb4cb7a735e53d191bd2d0242a0175cd4c6b384c127a0f2c7df831aa"
+    },
+    "D": {
+      "epoch": 0,
+      "score": 1.0,
+      "path": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/locked_D.pt",
+      "sha256": "7108cf8e2a7df089d3836e84aa40f2b96e1a0ed4753685f44bb8f71971388b44"
+    }
+  },
+  "test_pairs": [
+    {
+      "key": "test_000",
+      "face": "face_002",
+      "shape": "style_021",
+      "color": "color_029"
+    },
+    {
+      "key": "test_001",
+      "face": "face_008",
+      "shape": "style_019",
+      "color": "color_031"
+    },
+    {
+      "key": "test_002",
+      "face": "face_017",
+      "shape": "style_035",
+      "color": "color_033"
+    },
+    {
+      "key": "test_003",
+      "face": "face_024",
+      "shape": "style_029",
+      "color": "color_032"
+    },
+    {
+      "key": "test_004",
+      "face": "face_025",
+      "shape": "style_012",
+      "color": "color_030"
+    },
+    {
+      "key": "test_005",
+      "face": "face_032",
+      "shape": "style_021",
+      "color": "color_029"
+    },
+    {
+      "key": "test_006",
+      "face": "face_043",
+      "shape": "style_019",
+      "color": "color_031"
+    },
+    {
+      "key": "test_007",
+      "face": "face_044",
+      "shape": "style_035",
+      "color": "color_033"
+    },
+    {
+      "key": "test_008",
+      "face": "face_058",
+      "shape": "style_029",
+      "color": "color_032"
+    },
+    {
+      "key": "test_009",
+      "face": "face_059",
+      "shape": "style_012",
+      "color": "color_030"
+    }
+  ]
+}

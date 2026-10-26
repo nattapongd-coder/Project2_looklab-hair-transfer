@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "completed_epoch": 30,
+  "weight_updates": 4500,
+  "best_epoch": 0,
+  "best_score": 1.0,
+  "trial": {
+    "name": "A",
+    "synthesis_lr": 1e-05,
+    "rgb_lr": 1e-06
+  },
+  "initial_sha256": "54a60ef1c7ffeaaaccdec1f4977ccb39146260e343ddfd441442ecaaa9f9ce8d",
+  "current_sha256": "92049009bd0975e73f4d0da005bd8d151a340c583fe3eb33ab044f865c0fcd8e",
+  "protocol_id": "27f7f146ef0d"
+}

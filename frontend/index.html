@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LOOKLAB - ลุคใหม่ เริ่มที่คุณ | Hairstyle & Color Studio</title>
+    <meta name="description" content="LOOKLAB (ลุคแล็บ) - ระบบจำลองลองทรงผมและเปลี่ยนสีผมเสมือนจริง ลุคใหม่ เริ่มที่คุณ" />
+    <meta property="og:title" content="LOOKLAB - ลุคใหม่ เริ่มที่คุณ" />
+    <meta property="og:description" content="ลองทรงผมเสมือนจริง เห็นลุคใหม่ได้ในพริบตา เปรียบเทียบภาพก่อน-หลังอย่างเป็นธรรมชาติ" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,600;0,6..96,700;1,6..96,600&family=Caveat:wght@500;600;700&family=Cinzel:wght@600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Noto+Sans+Thai:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <script>
+      // Filter out benign TensorFlow Lite / MediaPipe WebAssembly C++ info messages routed to stderr/console.error
+      (function() {
+        var origError = console.error;
+        console.error = function() {
+          var first = arguments[0];
+          if (typeof first === 'string' && (
+            first.indexOf('TensorFlow Lite') !== -1 ||
+            first.indexOf('XNNPACK') !== -1 ||
+            first.indexOf('delegate for CPU') !== -1 ||
+            first.indexOf('INFO:') === 0
+          )) {
+            if (console.info) {
+              console.info.apply(console, arguments);
+            }
+            return;
+          }
+          return origError.apply(console, arguments);
+        };
+      })();
+    </script>
+  </head>
+  <body class="bg-[#F4EAE2] text-[#432B25] antialiased selection:bg-[#FFE3D5] selection:text-[#F27D68]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

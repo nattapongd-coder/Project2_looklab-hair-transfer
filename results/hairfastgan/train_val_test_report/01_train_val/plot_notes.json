@@ -1,0 +1,24 @@
+{
+  "source": "/content/bpp_4trials_pretrained_start_review.zip",
+  "selected_epochs": {
+    "A": 27,
+    "B": 24,
+    "C": 26,
+    "D": 23
+  },
+  "validation_pairs": {
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "D": 9
+  },
+  "train_aggregation": "Unweighted arithmetic mean of update logs per epoch (batch=1 in this study).",
+  "validation_aggregation": "Arithmetic mean across validation cases at each epoch.",
+  "missing_train_metrics": [
+    "target_mask_IoU"
+  ],
+  "score_formula": "0.5*((L+ab)/(baseline_L+baseline_ab)+(1-IoU)/(1-baseline_IoU))",
+  "selection": "Uses existing leaderboard best_epoch, not separate best epoch for each metric.",
+  "excluded": "All validation rows with epoch < 0 and all old comparator columns.",
+  "caution": "Single-seed validation results; no test evaluation or confidence intervals inferred."
+}

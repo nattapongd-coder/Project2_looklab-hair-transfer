@@ -1,0 +1,5 @@
+model,epoch,color,shape,identity,protected,detail,all_gates_pass
+A,30,True,True,True,True,False,False
+B,30,True,True,True,True,False,False
+C,30,True,False,True,True,False,False
+D,30,True,False,True,True,False,False

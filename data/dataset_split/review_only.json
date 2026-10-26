@@ -1,0 +1,14 @@
+[
+  {
+    "id": "face_005",
+    "file": "review_only/faces/face_005.jpeg",
+    "category": "faces",
+    "group_id": "person_004"
+  },
+  {
+    "id": "face_034",
+    "file": "review_only/faces/face_034.jpeg",
+    "category": "faces",
+    "group_id": "person_026"
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": "amendment_01_equal_detail_tolerance",
+  "protocol_id": "27f7f146ef0d",
+  "reason": "Detail gate was not equivalent: HFG allowed +15% of its epoch-0 detail (absolute ≈ 0.0913) while BS-FT allowed only +0.02 against its own baseline (epoch-0 value = 0). The new rule gives BS-FT the same absolute allowance as HFG.",
+  "old_rule": {
+    "detail_absolute_increase": 0.02
+  },
+  "new_rule": {
+    "detail_absolute_increase": 0.09129064579804737,
+    "derived_from": "0.15 x HFG validation epoch-0 detail_512_MAE_vs_pre mean",
+    "hfg_epoch0_detail": 0.6086043053203158
+  },
+  "unchanged": [
+    "score formula",
+    "color gate",
+    "shape gate (HFG-derived target)",
+    "identity gate 0.02",
+    "protected gate 0.01",
+    "validation cases"
+  ],
+  "candidate_checkpoints": "epoch 0 (baseline) and final_epoch30.pt of each trial; other epochs were not saved",
+  "validation_table": [
+    {
+      "trial": "A",
+      "epoch": 30,
+      "score": 0.841356,
+      "color": true,
+      "shape": true,
+      "identity": true,
+      "protected": true,
+      "detail": true,
+      "all_pass": true
+    },
+    {
+      "trial": "B",
+      "epoch": 30,
+      "score": 0.841952,
+      "color": true,
+      "shape": true,
+      "identity": true,
+      "protected": true,
+      "detail": true,
+      "all_pass": true
+    },
+    {
+      "trial": "C",
+      "epoch": 30,
+      "score": 0.856205,
+      "color": true,
+      "shape": false,
+      "identity": true,
+      "protected": true,
+      "detail": true,
+      "all_pass": false
+    },
+    {
+      "trial": "D",
+      "epoch": 30,
+      "score": 0.857521,
+      "color": true,
+      "shape": false,
+      "identity": true,
+      "protected": true,
+      "detail": true,
+      "all_pass": false
+    }
+  ],
+  "selected": {
+    "trial": "A",
+    "epoch": 30,
+    "score": 0.8413557862778945,
+    "checkpoint": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_A/final_epoch30.pt",
+    "sha256": "a158b74e1ab38d0e4bba91de1337786aff9e4a1a7ad1d8566b7abfdb9ec9553a"
+  },
+  "best_if_all_epochs_saved": {
+    "trial": "B",
+    "epoch": 29,
+    "score": 0.8396055791844013
+  },
+  "disclosure": [
+    "Test results of BS Baseline (and HFG) were viewed before this amendment.",
+    "Epoch-30 validation results were reviewed on 2026-10-09 (validation_epoch30_review_20261009_000101_b62d14).",
+    "The selected checkpoint has never been evaluated on test before this notebook.",
+    "Shape IoU still uses HairFastGAN-derived target masks."
+  ],
+  "test_plan": "Rebuild test cache; re-evaluate Baseline and require agreement with recorded results; then evaluate the selected checkpoint once. No further selection.",
+  "created_at_bangkok": "2026-10-16T16:56:49+07:00"
+}

@@ -1,0 +1,12 @@
+{
+  "two block": { "scaleX": 2.1, "scaleY": 1.65, "offsetX": 0, "offsetY": 0.02, "isFlipped": true },
+  "comma": { "scaleX": 2.9, "scaleY": 2.3, "offsetX": 0.06, "offsetY": 0.38, "isFlipped": true },
+  "korean long layered perm": { "scaleX": 4.25, "scaleY": 3.55, "offsetX": 0.1, "offsetY": 1.08, "isFlipped": true },
+  "korean short bob": { "scaleX": 3, "scaleY": 2.8, "offsetX": 0, "offsetY": 0.44, "isFlipped": true },
+  "modern quiff": { "scaleX": 2.61, "scaleY": 2.1, "offsetX": 0, "offsetY": 0.06, "isFlipped": true },
+  "pompadour": { "scaleX": 2.65, "scaleY": 2.05, "offsetX": 0.05, "offsetY": 0.18, "isFlipped": true },
+  "curtain": { "scaleX": 2.45, "scaleY": 1.8, "offsetX": 0.12, "offsetY": 0.22, "isFlipped": true },
+  "blunt bob": { "scaleX": 3.05, "scaleY": 2.25, "offsetX": 0.08, "offsetY": 0.46, "isFlipped": true },
+  "bob": { "scaleX": 3.15, "scaleY": 2.15, "offsetX": 0.12, "offsetY": 0.32, "isFlipped": true },
+  "build perm": { "scaleX": 6, "scaleY": 3.95, "offsetX": 0, "offsetY": 1.12, "isFlipped": true }
+}

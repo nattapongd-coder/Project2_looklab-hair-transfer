@@ -1,0 +1,74 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces ความสัมพันธ์ระหว่าง $FS$ Latent Space และ $W^{+}$ Space}}{11}{figure.caption.7}%
+\contentsline {figure}{\numberline {2}{\ignorespaces เปรียบเทียบคุณภาพการสร้างภาพคืนระหว่าง $W^{+}$ และ $FS$}}{12}{figure.caption.8}%
+\contentsline {figure}{\numberline {3}{\ignorespaces ภาพรวมขั้นตอนการทำงานของโมเดล HairFastGAN}}{13}{figure.caption.9}%
+\contentsline {figure}{\numberline {4}{\ignorespaces ตัวอย่างการทำงานของ Pose Alignment}}{15}{figure.caption.10}%
+\contentsline {figure}{\numberline {5}{\ignorespaces บล็อกผสมพื้นที่แฝงและโมดูลถ่ายโอนรูปทรงของ HairFastGAN}}{17}{figure.caption.11}%
+\contentsline {figure}{\numberline {6}{\ignorespaces ตัวอย่างการทำงานของ Shape Alignment}}{17}{figure.caption.12}%
+\contentsline {figure}{\numberline {7}{\ignorespaces โครงสร้างโมดูล Color และ Refinement ของ HairFastGAN}}{20}{figure.caption.13}%
+\contentsline {figure}{\numberline {8}{\ignorespaces ตัวอย่างการทำงานของ Color และ Refinement Alignment}}{20}{figure.caption.14}%
+\contentsline {figure}{\numberline {9}{\ignorespaces ภาพรวมกระบวนการทำงานของโมเดล Barbershop}}{21}{figure.caption.15}%
+\contentsline {figure}{\numberline {10}{\ignorespaces การสร้างหน้ากากเป้าหมายของ Barbershop}}{22}{figure.caption.16}%
+\contentsline {figure}{\numberline {11}{\ignorespaces ภาพรวมกระบวนการทำงานของ SegFormer}}{27}{figure.caption.18}%
+\contentsline {figure}{\numberline {12}{\ignorespaces สถาปัตยกรรมและการทำงานภายในของ Stable Diffusion}}{29}{figure.caption.19}%
+\contentsline {figure}{\numberline {13}{\ignorespaces การบีบอัดเชิงการรับรู้และเชิงความหมายของ LDM}}{30}{figure.caption.20}%
+\contentsline {figure}{\numberline {14}{\ignorespaces ตัวอย่างการ Inpainting ด้วย Latent Diffusion Model}}{32}{figure.caption.21}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {15}{\ignorespaces ภาพรวมกระบวนการวิจัย ตั้งแต่ข้อมูล การปรับจูน การเลือก Checkpoint การทดสอบ การขัดเกลาด้วย Diffusion จนถึงการคัดเลือกโมเดลสำหรับเว็บแอปพลิเคชัน}}{36}{figure.caption.22}%
+\contentsline {figure}{\numberline {16}{\ignorespaces ตัวอย่างข้อมูลนำเข้าหนึ่งชุด ได้แก่ ภาพใบหน้าต้นฉบับ ภาพอ้างอิงทรงผม และภาพอ้างอิงสีผม}}{37}{figure.caption.23}%
+\contentsline {figure}{\numberline {17}{\ignorespaces ขั้นตอนการทำงานของ Barbershop-FT + Diffusion ตั้งแต่ภาพนำเข้า 3 ภาพ จนถึงภาพผลลัพธ์ พร้อมส่วนที่ปรับจูน}}{39}{figure.caption.25}%
+\contentsline {figure}{\numberline {18}{\ignorespaces ขั้นตอนการทำงานของ HairFastGAN (ปรับจูน) + Stable Diffusion แสดงโมดูลที่ล็อกไว้ โมดูลที่ปรับจูน และขั้นขัดเกลาที่เพิ่มเข้ามา}}{43}{figure.caption.26}%
+\contentsline {figure}{\numberline {19}{\ignorespaces ตัวอย่างภาพผลลัพธ์จาก HairFastGAN และ Barbershop จากภาพนำเข้าชุดเดียวกัน}}{45}{figure.caption.27}%
+\contentsline {figure}{\numberline {20}{\ignorespaces ขั้นตอนการปรับจูน: วนฝึกทุกตัวอย่างในชุดฝึก และตรวจสอบบนชุดตรวจสอบหลังจบทุก Epoch}}{46}{figure.caption.28}%
+\contentsline {figure}{\numberline {21}{\ignorespaces ขั้นขัดเกลาด้วย Diffusion (แถวบน) และสรุปการปรับจูน HairFastGAN (แถวล่าง)}}{54}{figure.caption.32}%
+\contentsline {figure}{\numberline {22}{\ignorespaces หน้าหลักของเว็บแอปพลิเคชัน LOOKLAB}}{59}{figure.caption.35}%
+\contentsline {figure}{\numberline {23}{\ignorespaces หน้าแคตตาล็อกทรงผมและสีผมของ LOOKLAB}}{60}{figure.caption.36}%
+\contentsline {figure}{\numberline {24}{\ignorespaces โหมดกล้องสดของ LOOKLAB}}{60}{figure.caption.37}%
+\contentsline {figure}{\numberline {25}{\ignorespaces หน้าผลลัพธ์และแบบสอบถามของ LOOKLAB}}{61}{figure.caption.38}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {26}{\ignorespaces คะแนนบนชุดตรวจสอบทุก Epoch ของ HairFastGAN (เส้นสีคือ Trial B ที่เลือก)}}{65}{figure.caption.41}%
+\contentsline {figure}{\numberline {27}{\ignorespaces ตัวชี้วัด 5 ด้านบนชุดตรวจสอบทุก Epoch ของ HairFastGAN ทั้ง 4 Trial}}{66}{figure.caption.42}%
+\contentsline {figure}{\numberline {28}{\ignorespaces คะแนนบนชุดตรวจสอบทุก Epoch ของ Barbershop-FT (เส้นสีคือ Trial A ที่เลือก)}}{67}{figure.caption.44}%
+\contentsline {figure}{\numberline {29}{\ignorespaces ตัวชี้วัด 5 ด้านบนชุดตรวจสอบทุก Epoch ของ Barbershop-FT ทั้ง 4 Trial}}{68}{figure.caption.45}%
+\contentsline {figure}{\numberline {30}{\ignorespaces ผลบนชุดทดสอบรายภาพ (จุดจาง = 1 ภาพ, ขีดเข้ม = ค่าเฉลี่ย)}}{70}{figure.caption.47}%
+\contentsline {figure}{\numberline {31}{\ignorespaces ตัวอย่างผลบนชุดทดสอบ (test\_000) ของโมเดลก่อนและหลังปรับจูน}}{72}{figure.caption.49}%
+\contentsline {figure}{\numberline {32}{\ignorespaces ตัวอย่างภาพหลังแต่ละขั้นของการขัดเกลา 2 ชุดจาก 8 ชุด (แถวบน BS-FT A30, แถวล่าง HFG B24)}}{73}{figure.caption.50}%
+\contentsline {figure}{\numberline {33}{\ignorespaces คุณภาพภาพและเอกลักษณ์ใบหน้าหลังแต่ละขั้นของการขัดเกลา (เส้นจาง = แต่ละชุดภาพ, เส้นเข้ม = ค่าเฉลี่ย 8 ชุด)}}{74}{figure.caption.52}%
+\contentsline {figure}{\numberline {34}{\ignorespaces ตัวอย่างผลลัพธ์ของ 4 ระบบจากภาพนำเข้าชุดเดียวกัน}}{76}{figure.caption.53}%
+\contentsline {figure}{\numberline {35}{\ignorespaces หน้าแบบประเมินที่ไม่เปิดเผยชื่อโมเดลและสลับลำดับภาพทุกคน}}{77}{figure.caption.54}%
+\contentsline {figure}{\numberline {36}{\ignorespaces คะแนนผู้ใช้ก่อน (จุดเทา) และหลัง Diffusion (จุดสี) เครื่องหมาย * คือช่วงความเชื่อมั่น 95\% ไม่คร่อมศูนย์}}{78}{figure.caption.56}%
+\contentsline {figure}{\numberline {37}{\ignorespaces เวลาที่ผู้ใช้ยอมรอเพื่อให้ได้ภาพคุณภาพเท่าภาพที่เห็น (41 คน $\times $ 4 ภาพ)}}{79}{figure.caption.58}%
+\contentsline {figure}{\numberline {38}{\ignorespaces ผลการทดลองใช้งานเว็บแอปพลิเคชัน 100 ครั้ง}}{82}{figure.caption.61}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {39}{\ignorespaces หน้าหลังส่งแบบประเมินบนเว็บ LOOKLAB}}{98}{figure.caption.67}%
+\contentsline {figure}{\numberline {40}{\ignorespaces ตัวอย่างภาพนำเข้าและผลลัพธ์ของ HairFastGAN และ Barbershop ก่อนปรับจูน}}{100}{figure.caption.68}%
+\contentsline {figure}{\numberline {41}{\ignorespaces ผลของข้อความสั่งงาน 6 แบบกับภาพจาก HairFastGAN และ Barbershop (ตัวอย่างที่ 1)}}{101}{figure.caption.69}%
+\contentsline {figure}{\numberline {42}{\ignorespaces ผลของข้อความสั่งงาน 6 แบบกับภาพจาก HairFastGAN และ Barbershop (ตัวอย่างที่ 2)}}{101}{figure.caption.70}%
+\contentsline {figure}{\numberline {43}{\ignorespaces ตัวชี้วัดของภาพก่อนผ่าน Diffusion (Base) และหลังผ่านด้วยข้อความ P1--P6}}{102}{figure.caption.71}%
+\contentsline {figure}{\numberline {44}{\ignorespaces คิวอาร์โค้ดสำหรับเข้าเว็บแอปพลิเคชัน LOOKLAB}}{104}{figure.caption.72}%
+\contentsline {figure}{\numberline {45}{\ignorespaces หน้าต่างคู่มือการใช้งานที่แสดงเมื่อเปิดเว็บครั้งแรก}}{104}{figure.caption.73}%
+\contentsline {figure}{\numberline {46}{\ignorespaces หน้าหลักก่อนใส่รูปและปุ่มอัปโหลดรูปภาพ}}{105}{figure.caption.74}%
+\contentsline {figure}{\numberline {47}{\ignorespaces การตรวจพบใบหน้าและการเลือกทรงผม}}{106}{figure.caption.75}%
+\contentsline {figure}{\numberline {48}{\ignorespaces การเลือกสีผมและปุ่มสร้างลุคใหม่ของคุณ}}{107}{figure.caption.76}%
+\contentsline {figure}{\numberline {49}{\ignorespaces หน้าต่างแสดงสถานะระหว่างสร้างภาพทรงผม}}{107}{figure.caption.77}%
+\contentsline {figure}{\numberline {50}{\ignorespaces ภาพผลลัพธ์พร้อมแถบเลื่อนเปรียบเทียบก่อนและหลัง}}{108}{figure.caption.78}%
+\contentsline {figure}{\numberline {51}{\ignorespaces ปุ่มเปิดกล้องสำหรับเข้าสู่โหมดกล้องสด}}{109}{figure.caption.79}%
+\contentsline {figure}{\numberline {52}{\ignorespaces การเลือกทรงผม สีผม และการนับถอยหลังเพื่อถ่ายภาพในโหมดกล้องสด}}{110}{figure.caption.80}%
+\contentsline {figure}{\numberline {53}{\ignorespaces หน้าต่างแบบสอบถามประเมินผลลัพธ์ภาพทรงผมจากภาพที่ถ่ายด้วยกล้อง}}{110}{figure.caption.81}%
+\contentsline {figure}{\numberline {54}{\ignorespaces ทรงผมใหม่ที่แสดงบนภาพจากกล้องแบบเรียลไทม์}}{111}{figure.caption.82}%
+\contentsline {figure}{\numberline {55}{\ignorespaces ข้อความสั่งงานและคำตอบของ ChatGPT ในการสร้าง Colab สำหรับรัน HairFastGAN แบบ Pretrained}}{115}{figure.caption.83}%
+\contentsline {figure}{\numberline {56}{\ignorespaces ข้อความสั่งงานและคำตอบของ ChatGPT ในการเพิ่มขั้นปรับภาพด้วย Realistic Vision V5.1}}{116}{figure.caption.84}%
+\contentsline {figure}{\numberline {57}{\ignorespaces ข้อความสั่งงานและตอนต้นของคำตอบ ChatGPT เรื่องส่วนที่ปรับจูนได้ของ HairFastGAN}}{118}{figure.caption.85}%
+\contentsline {figure}{\numberline {58}{\ignorespaces ตารางในคำตอบของ ChatGPT ที่แยกการปรับจูนน้ำหนักจริงออกจากการปรับค่าตอนสร้างภาพ}}{119}{figure.caption.86}%
+\contentsline {figure}{\numberline {59}{\ignorespaces ข้อความสั่งงานและคำตอบของ ChatGPT ในการสร้าง Colab สำหรับรัน Barbershop แบบ Pretrained}}{120}{figure.caption.87}%
+\contentsline {figure}{\numberline {60}{\ignorespaces ข้อความสั่งงานและคำตอบของ ChatGPT ในการเพิ่มขั้นปรับภาพต่อจาก Barbershop}}{121}{figure.caption.88}%
+\contentsline {figure}{\numberline {61}{\ignorespaces ข้อความสั่งงานและตอนต้นของคำตอบ ChatGPT เรื่องส่วนที่ปรับจูนได้ของ Barbershop}}{123}{figure.caption.89}%
+\contentsline {figure}{\numberline {62}{\ignorespaces คำตอบของ ChatGPT เรื่องส่วนของ StyleGAN2 ที่ควรปรับจูนใน Barbershop}}{124}{figure.caption.90}%
+\contentsline {figure}{\numberline {63}{\ignorespaces ข้อความสั่งงานและคำตอบของ ChatGPT ในการสร้างไฟล์เปรียบเทียบ Barbershop A30 กับ HairFastGAN B24}}{126}{figure.caption.91}%
+\contentsline {figure}{\numberline {64}{\ignorespaces ข้อความสั่งงานและภาพตัวอย่างหน้าเว็บที่ ChatGPT ออกแบบ (แบบ 03 Peach Room)}}{127}{figure.caption.92}%
+\contentsline {figure}{\numberline {65}{\ignorespaces ตารางสรุปหน้าเว็บ 10 แบบที่ ChatGPT ออกแบบให้เลือก}}{127}{figure.caption.93}%
+\contentsline {figure}{\numberline {66}{\ignorespaces ข้อความสั่งงานและข้อความสำหรับ Google AI Studio ที่ ChatGPT เขียนให้}}{128}{figure.caption.94}%
+\contentsline {figure}{\numberline {67}{\ignorespaces หน้าเว็บที่ Google AI Studio สร้างตามข้อความสั่งงานและแบบ 03 Peach Room}}{129}{figure.caption.95}%
+\contentsline {figure}{\numberline {68}{\ignorespaces ข้อความสั่งงานและคำตอบของ Claude เรื่องการนำเว็บขึ้น Vercel และ RunPod}}{132}{figure.caption.97}%
+\contentsline {figure}{\numberline {69}{\ignorespaces ขั้นตอนที่ Claude ให้ผู้วิจัยทำต่อ และสิ่งที่ Claude แก้เพิ่ม}}{132}{figure.caption.98}%

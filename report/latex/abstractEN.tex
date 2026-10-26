@@ -1,0 +1,29 @@
+Hair transfer must change the hairstyle and hair color to match reference images
+while preserving the person's face, skin, clothing, and background.
+This project fine-tunes two GAN-based models, HairFastGAN and Barbershop,
+on our own dataset of 150 training, 9 validation, and 10 test triplets,
+using a shared core objective with architecture-specific auxiliary terms, covering five aspects:
+hair color, hair shape, face identity, protected regions, and hair detail.
+Four learning-rate settings (Trials A--D) were trained for 30 epochs each,
+and checkpoints were selected on the validation set with a common amended rule; the amendment and unequal checkpoint availability are disclosed in the methodology.
+A low-strength Stable Diffusion inpainting stage (strength 0.15),
+followed by background detail recovery and native sharpening,
+was then added as post-processing.
+
+On the test set, fine-tuning improved both models.
+HairFastGAN (Trial B, epoch 24) reduced the hair-color error from 13.03 to 8.99,
+raised ArcFace identity similarity from 0.728 to 0.794,
+and reduced the change outside the hair (MAE) from 0.041 to 0.014.
+Barbershop-FT (Trial A, epoch 30) gave the closest hair color (7.86)
+and a significant ArcFace gain (+0.013, 95\% CI +0.008 to +0.019),
+but needed about 657 seconds per image versus about 10 seconds for HairFastGAN.
+
+A blind user study with 41 participants (164 responses) showed that
+diffusion made images more realistic (Barbershop-FT +0.59, 95\% CI +0.27 to +0.93)
+but slightly reduced perceived face similarity, consistent with the ArcFace drop,
+and 84\% of responses accepted a wait of at most five minutes.
+HairFastGAN B24 + Diffusion was therefore deployed as a web application named LOOKLAB (\url{https://looklab2.vercel.app/}):
+it received the highest satisfaction score (3.90/5), takes about 13 seconds per image,
+and preserves the face clearly better than Barbershop-FT + Diffusion (+0.73).
+In 100 real uses of the web application, overall satisfaction was 4.73 out of 5
+with a median waiting time of 14.9 seconds.

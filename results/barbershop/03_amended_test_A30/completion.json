@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "amendment_sha256": "ff1cd122e0adc4ef17a58f67340da2fcf0a0f00842e316d0ce4598cc0ad33fe7",
+  "selected": {
+    "trial": "A",
+    "epoch": 30,
+    "score": 0.8413557862778945,
+    "checkpoint": "/content/drive/MyDrive/Barbershop_FT_30Epoch/27f7f146ef0d/trial_A/final_epoch30.pt",
+    "sha256": "a158b74e1ab38d0e4bba91de1337786aff9e4a1a7ad1d8566b7abfdb9ec9553a"
+  },
+  "baseline_reproduced": true,
+  "test_cases": 10,
+  "models_evaluated": [
+    "Baseline",
+    "BS-FT A ep30"
+  ],
+  "no_training": true,
+  "no_test_based_selection": true
+}
